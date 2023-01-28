@@ -19,6 +19,8 @@
 - 시간 복잡도
     - 인접 행렬: o(v^2)
     - 인접 리스트: o(v+e)
+- 최소 이동 등을 구할땐 BFS가 유리하며, list에 증감하면서 접근하자.
+<img width="525" alt="스크린샷 2023-01-28 오후 4 35 25" src="https://user-images.githubusercontent.com/82144756/215253545-5c448c6a-177f-4028-b706-25e5dc67babd.png">
 
 ## 참고자료 출처
 [https://velog.io/@stat_wkon/TIL-2-BFS%EC%99%80-DFS-%EC%9D%B4%ED%95%B4](https://velog.io/@stat_wkon/TIL-2-BFS%EC%99%80-DFS-%EC%9D%B4%ED%95%B4)
